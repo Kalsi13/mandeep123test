@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dcu/mongodb_exporter/collector"
-	"github.com/dcu/mongodb_exporter/shared"
+	"github.com/Kalsi13/mandeep123test/collector"
+	"github.com/Kalsi13/mandeep123test/shared"
 
 	"github.com/golang/glog"
 	"github.com/prometheus/client_golang/prometheus"
