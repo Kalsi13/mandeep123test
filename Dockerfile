@@ -1,5 +1,5 @@
 FROM       alpine:3.4
-MAINTAINER David Cuadrado <dacuad@facebook.com>
+MAINTAINER Mandeep Kalsi
 EXPOSE     9001
 
 COPY . /go/src/github.com/Kalsi13/mandeep123test
